@@ -1,0 +1,18 @@
+{
+    "name": "이윤혁",
+    "job": "대학생",
+    "age": 20,
+    "hobby": ["making games", "airsoft", "physical computing"],
+    "course_table":[
+        {"name": "게임이론", "id": "CMEF406-01"},
+        {"name": "기업가정신과 기술혁신", "id": "IMEN110-04"},
+        {"name": "대학생활과 미래설계I", "id": "MSUS102-01"},
+        {"name": "인공지능 기초I", "id": "AIGS101-01"},
+        {"name": "일반물리실험I", "id": "PHYS103-15"},
+        {"name": "일반생명과학(H)", "id": "LIFE103H-01"},
+        {"name": "체력관리", "id": "GEDU151-06"},
+        {"name": "프로그래밍과문제해결", "id": "CSED101"},
+        {"name": "학과입문(IT융합공학과)", "id": "CITE100-01"},
+        {"name": "학과탐색", "id": "MSUS101-01"}
+    ]
+}
